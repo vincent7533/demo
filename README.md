@@ -1,7 +1,7 @@
 Please run Castle from CastleDemo.java
 I already have some test cases, please feel free to add more
 The Assumption I made on it is:
-1. the first and last elements of array are both peak/valley
+1.the first and last elements of array are both peak/valley
 for example {1,3,2} have two valley 1 and 2, and one peak 3.
 
 Please run Transformer from TransformerDemo.java
